@@ -1,3 +1,6 @@
-const logMessage = require("./customModule");
+// test.js
+// kani waxad ka ogaaneysaa costonModule aad so saneysay, 
+//sidaas darteed waxaan isticmaali karaa logmessage functionka
 
-logMessage("hello from your costom module!");
+const logMessage = require('./customModule');
+logMessage('Hello from your custom module!');
