@@ -1,7 +1,7 @@
 # Reflection Journal for Week 1
 
 - Student Name: [Naima- Week1]
-- Week #: 
+- Week 1: 
 
 > Make sure that you have the following hierarchy in place. The reflection journal should be located in `./dev/week1/Reflection-Journal`.
 
@@ -15,7 +15,7 @@ Dev
 ----
 ## Peer assessment
 
-Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
+Evaluate the performance of each member of your group. **Gruop7** to **evaluate yourself as well**!
 
 - Group Member's Name
 Rate on a Scale of 1-5
